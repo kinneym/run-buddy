@@ -123,13 +123,13 @@ section {
     border: none;
     padding: 10px 20px;
     font-size: 16px;
+}
+
+/* Adds pointer cursor to form radio buttons, checkbox, and submit button */
+.cursor-pointer {
     cursor: pointer;
 }
 
-/* Adds pointer cursor to form radio buttons and checkbox */
-.form-pointer {
-    cursor: pointer;
-}
 /* Hero Style End */
 
 /* Section h2 styling */
