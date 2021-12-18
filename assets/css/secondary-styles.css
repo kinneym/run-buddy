@@ -1,6 +1,9 @@
 /* Tweaks for privacy-policy hero section */
+
 .hero {
-    background-position: bottom;
+    background-attachment: fixed;
+    background-position: 80%;
+    /* background-position: bottom; */
     height: auto;
     text-align: center;
     margin-bottom: 40px;
